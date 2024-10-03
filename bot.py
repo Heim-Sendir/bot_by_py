@@ -13,4 +13,5 @@ def echo_all(message):
 
 
 # Запуск бота
+print("Bot is starting...")
 bot.polling()
